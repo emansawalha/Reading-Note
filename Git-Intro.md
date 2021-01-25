@@ -1,3 +1,5 @@
+
+![github img](https://th.bing.com/th/id/OIP.EgSPriuEnAtlIWJV8R_E1QHaGs?w=178&h=180&c=7&o=5&pid=1.7)
 * ## Version control  :
 Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes Through version control, one can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes. By utilizing a Version Control System (VCS),
 mistakes with files can easily be rectified.
@@ -23,4 +25,5 @@ with certain files, and gave administrators much more control over divvying up r
    * **Loss of Data** : Git makes it extremely difficult for a snapshot of your file that is committed to be lost.
    * **States** : Files in Git can reside in three main states: committed, modified and staged.
    
+   Further Information visit [github tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
    
