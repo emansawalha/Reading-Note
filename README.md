@@ -1,5 +1,5 @@
 # Reading-Note
-# Reading-Notes
+
 # Growth Mindset
 
 ## What is a growth mindset?
