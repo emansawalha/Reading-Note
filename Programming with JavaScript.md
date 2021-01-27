@@ -42,7 +42,7 @@ create a single value from one or more values.
      - ARITHMETIC OPERATORS : ` -,+,/,* , ++,--,%`
      - STRING OPERATORS :  `greeting= 'Hi ' + 'Mol ly';` 
      - COMPARISON OPERATORS : `>,<,!=`
-     - LOGICAL OPERATORS : `&&, ||,
+     - LOGICAL OPERATORS : `&&, ||,!==`
 
  
 
