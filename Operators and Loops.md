@@ -18,7 +18,7 @@ operator | what is this  | meaning example
 Its allow to compare the result of more than one comparison operator 
 
 1. && (AND) :when used with Boolean values, && returns true if both operands are true; otherwise, returns false.
-1. || (OR) :when used with Boolean values, || returns true if either operand is true; if both are false, returns false.
+1. `|| (OR) :when used with Boolean values, || returns true if either operand is true; if both are false, returns false.`
 1. NOT (!) : Returns false if its single operand that can be converted to true; otherwise, returns true.
 
 ## For And While Loop ##
