@@ -34,7 +34,7 @@ for (statement 1; statement 2; statement 3){
     - Statement 3 is executed every time the code block is run.
 
  2. ### While loop ###
-  ** Syntax : **
+   Syntax :
   while (condition){
  execute code block
 }
