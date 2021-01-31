@@ -1,5 +1,6 @@
 
 ##  Introducing CSS ##
+![CSS](https://s3.amazonaws.com/lms24x7/wp-content/uploads/2019/04/23102425/Introduction-To-CSS.jpg)
 - CSS treats each HTML e XX lement as if it appears inside
 its own box and uses rules to indicate how that
 element should look.
