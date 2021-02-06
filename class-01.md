@@ -6,13 +6,13 @@
 
 
  ### How Websites Are Created ###
- 
+
  - All websites use HTML and CSS, but content
 management systems, blogging software, and
 e-commerce platforms often add a few more
 technologies into the mix.
 
-### How People Access the Web###
+### How People Access the Web ###
 - Browsers
 People access websites using
 software called a web browser.
@@ -138,3 +138,7 @@ visitors understand what you are trying to tell them.
 using size, color, and style.
 - You can use grouping and similarity to help simplify
 the information you present.
+
+# The ABC of Programming #
+
+<img src="JS Intro.png"/>
