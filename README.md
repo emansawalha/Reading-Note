@@ -1,5 +1,9 @@
 # My Reading Notes
 
+## this is reading Notes contains all notes from courses 201 & 102 ##
+## there is a table contains all reading notes pages You can surf upon the topics ##
+
+
 This is **Eman Sawalha** This Eman Sawalha ... M.Sc MBA-MIS ..
 
 This Eman Sawalha ... M.Sc MBA-MIS ..
