@@ -1,6 +1,12 @@
+ 
+ 
+ 
+ 
  ## Introduction ##
 
+
  ### How Websites Are Created ###
+ 
  - All websites use HTML and CSS, but content
 management systems, blogging software, and
 e-commerce platforms often add a few more
