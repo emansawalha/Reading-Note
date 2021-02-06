@@ -1,4 +1,6 @@
 # My Reading Notes
+## this is reading Notes contains all notes from courses 201 & 102 ##
+## there is a table contains all reading notes pages You can surf upon the topics ##
 
 This is **Eman Sawalha** This Eman Sawalha ... M.Sc MBA-MIS ..
 
@@ -19,3 +21,40 @@ This table contain the topics and the link of each page of topic
 Growth mindset|[growth mind](https://emansawalha.github.io/Reading-Note/mindset)
  Learning Markdown|[02a - Learning Markdown](https://emansawalha.github.io/Reading-Note/02a%20-%20Learning%20Markdown)
  Git Intro | [ Github & git ](https://emansawalha.github.io/Reading-Note/Git-Intro)
+
+
+# Code 201 Reading Notes
+
+This table contain the topics and the link of each page of topic for course 201
+
+  **Topic**|**link**
+
+1.---------|---------
+
+2.---------|---------
+
+3.---------|---------
+
+4.---------|---------
+
+5.---------|---------
+
+6.---------|---------
+
+7.---------|---------
+
+8.---------|---------
+
+9.---------|---------
+
+10.---------|---------
+
+11.---------|---------
+
+12.---------|---------
+
+13.---------|---------
+
+14.---------|---------
+
+15.---------|---------
