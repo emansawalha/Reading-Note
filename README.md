@@ -24,3 +24,24 @@ This table contain the topics and the link of each page of topic for course 102
 Growth mindset|[growth mind](https://emansawalha.github.io/Reading-Note/mindset)
  Learning Markdown|[02a - Learning Markdown](https://emansawalha.github.io/Reading-Note/02a%20-%20Learning%20Markdown)
  Git Intro | [ Github & git ](https://emansawalha.github.io/Reading-Note/Git-Intro)
+ 
+ # Code 201 Reading Notes
+
+This table contain the topics and the link of each page of topic for course 201
+
+  **Topic**|**link**
+---------|---------
+---------|---------
+---------|---------
+---------|---------
+---------|--------
+---------|---------
+---------|---------
+---------|---------
+---------|---------
+---------|---------
+---------|---------
+---------|---------
+---------|---------
+---------|--------
+---------|---------
