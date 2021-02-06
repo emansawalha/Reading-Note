@@ -1,11 +1,9 @@
 
 # My Reading Notes #
+
 ## this is reading Notes contains all notes from courses 201 & 102 ##
-## there is a table contains all reading notes pages You can surf upon the topics ##
 
-
-
-
+![Reading NOtes](https://th.bing.com/th/id/R79f83efe712316907a2968bd3326af74?rik=%2bzwl2e9LBCnUzA&riu=http%3a%2f%2fremixreading.org%2fwp-content%2fuploads%2f2013%2f03%2ftake-class-notes.jpg&ehk=lThOGUpeFUelLsZkS2CWKWmmyE4Cr2jMiPFDIlV1OA0%3d&risl=&pid=ImgRaw)
 
 This is **Eman Sawalha** This Eman Sawalha ... M.Sc MBA-MIS ..
 
@@ -32,19 +30,21 @@ This table contain the topics and the link of each page of topic for course 201
 
   **Topic**|**link**
 ---------|---------
----------|---------
----------|---------
----------|---------
----------|--------
----------|---------
----------|---------
----------|---------
----------|---------
----------|---------
----------|---------
----------|---------
----------|---------
----------|--------
----------|---------
->>>>>>> 179a7bac3987f9f183f4fcd71507e2daf7bc9f86
+class- 01|[calss-01](https://emansawalha.github.io/Reading-Note/class%20-01)
+         |           |
+         |           |
+         |           |  
+         |           |
+         |           |
+         |           |
+         |           | 
+         |           |
+         |           |
+         |           |
+         |           |
+         |           |
+         |           |
+         |           |
+
+
 
