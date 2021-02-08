@@ -13,14 +13,14 @@ describe both headings and paragraphs.
 
 **Tag name**| **Description**
 ------------|----------------
-1. `<h1> to <h6>`|It defines headings for an HTML document from level 1 to level 6.
-2. `<p>` | It represents a paragraph in an HTML document.
-3. `<b>` | It is used to make a text **bold**.
-4. `<i>` |It is used to make a text *italic*.
-5. `<sub>`|It defines a text which displays as a subscript text.
-6. `<sup>`|It defines a text which represent as superscript text.
-7. `<br />` |It is used to apply single line break.
-8. `<hr />`|It is used to apply tadd a horizontal rule between sections.
+ `<h1> to <h6>`|It defines headings for an HTML document from level 1 to level 6.
+ `<p>` | It represents a paragraph in an HTML document.
+ `<b>` | It is used to make a text **bold**.
+ `<i>` |It is used to make a text *italic*.
+ `<sub>`|It defines a text which displays as a subscript text.
+ `<sup>`|It defines a text which represent as superscript text.
+ `<br />` |It is used to apply single line break.
+ `<hr />`|It is used to apply tadd a horizontal rule between sections.
 
 
 - **Semantic markup**: which provides extra information; such
@@ -30,17 +30,17 @@ meaning of acronyms, and so on.
 
 **Tag name**| **Description**
 ------------|----------------
-1. `<strong>`|	It is used to define important text.
-2. `<em>`    |It is used to emphasis the content applied within      this                 element.
-3. `<blockquote>`| It is used to define a content which is taken from another source.
-4. `<q>` | It defines short inline quotation.
-5. `<abbr>`| It defines an abbreviation for a phrase or longer word.
-6. `<cite>`|It is used to define the title of the work, book, website, etc.
-7. `<dfn>`| It is used to indicate a term which is defined within a sentence/phrase.
-8. `<address>`|It defines the author's contact information of the HTML article.
-9. `<ins>`| It represent text that has been inserted within an HTML document.
-10. `<del`|It defines a text which has been deleted from the document.
-11. `<s>` | It render text which is no longer correct or relevant.
+ `<strong>`|	It is used to define important text.
+ `<em>`    |It is used to emphasis the content applied within      this                 element.
+ `<blockquote>`| It is used to define a content which is taken from another source.
+ `<q>` | It defines short inline quotation.
+ `<abbr>`| It defines an abbreviation for a phrase or longer word.
+ `<cite>`|It is used to define the title of the work, book, website, etc.
+ `<dfn>`| It is used to indicate a term which is defined within a sentence/phrase.
+ `<address>`|It defines the author's contact information of the HTML article.
+ `<ins>`| It represent text that has been inserted within an HTML document.
+ `<del`|It defines a text which has been deleted from the document.
+ `<s>` | It render text which is no longer correct or relevant.
 
 
 
