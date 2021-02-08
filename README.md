@@ -31,5 +31,6 @@ This table contain the topics and the link of each page of topic for course 201
   **Topic**|**link**
 ---------|---------
 class- 01|[calss-01](https://emansawalha.github.io/Reading-Note/class-01)
-class -02 | [https://emansawalha.github.io/Reading-Note/class-02]
+class -02 | [class-02](https://emansawalha.github.io/Reading-Note/class-02)
+
 
