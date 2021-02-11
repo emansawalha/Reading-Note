@@ -32,5 +32,8 @@ This table contain the topics and the link of each page of topic for course 201
 ---------|---------
 class- 01|[calss-01](https://emansawalha.github.io/Reading-Note/class-01)
 class -02 | [class-02](https://emansawalha.github.io/Reading-Note/class-02)
+class - 03 |
+class - 04 |
+class - 05 |[class -05](https://emansawalha.github.io/Reading-Note/Read:%2005%20-%20HTML%20Images;%20CSS%20Color%20&%20Text)
 
 
