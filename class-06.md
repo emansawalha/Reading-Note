@@ -4,7 +4,7 @@
 
 - #### VARIABLES BECOME KNOWN AS PROPERTIES ####
     - If a variable is part of an object, it is called a
-property. Properties te ll us about the object.
+property. Properties tell us about the object.
 
 
 - #### FUNCTIONS BECOME KNOWN AS METHODS ####
