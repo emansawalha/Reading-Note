@@ -36,5 +36,5 @@ class - 03 |[class-03](https://emansawalha.github.io/Reading-Note/class-03)
 class - 04 |
 class - 05 |[class -05](https://emansawalha.github.io/Reading-Note/Read:%2005%20-%20HTML%20Images;%20CSS%20Color%20&%20Text)
 class - 06 | [class -06](https://emansawalha.github.io/Reading-Note/class-06)
-clas - 07 | 
+clas - 07 | [class-07](https://emansawalha.github.io/Reading-Note/class-07)
 
